@@ -1,0 +1,42 @@
+.block-main {
+    width: 660px;
+    height: 700px;
+    border: 2px solid;
+    position: relative;
+    left: 30%;
+    top: 0;
+}
+
+.header {
+    width: 660px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.blocks {
+    display: flex;
+}
+
+.block1 {
+    width: 220px;
+    height: 500px;
+    background-color: brown;
+}
+
+.block2 {
+    width: 220px;
+    height: 500px;
+    background-color: rgb(48, 165, 42);
+}
+
+.block3 {
+    width: 220px;
+    height: 500px;
+    background-color: rgb(146, 46, 173);
+}
+
+.footer {
+    width: 660px;
+    height: 100px;
+    background-color: aquamarine;
+}
